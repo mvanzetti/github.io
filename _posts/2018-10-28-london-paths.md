@@ -4,13 +4,84 @@ title:  "London Paths"
 date:   2018-10-28 17:10:08 +0200
 categories: london
 ---
-# *Day 1*
+## Transports
+
+info: https://www.toptiplondon.com/transport/tickets/oyster-card/
+
+<table id="tickets">
+<tbody>
+<tr>
+<th colspan="3">Oyster Daily Cap</th>
+</tr>
+<tr>
+<th></th>
+<th style="text-align: center;">2018</th>
+</tr>
+<tr>
+<td>Zone 1</td>
+<td style="text-align: center;">£6.80</td>
+</tr>
+<tr class="dif">
+<td>Zone 1–2</td>
+<td style="text-align: center;">£6.80</td>
+</tr>
+<tr>
+<td>Zone 1–3</td>
+<td style="text-align: center;">£8.00</td>
+</tr>
+<tr class="dif">
+<td>Zone 1–4</td>
+<td style="text-align: center;">£9.80</td>
+</tr>
+<tr>
+<td>Zone 1–5</td>
+<td style="text-align: center;">£11.60</td>
+</tr>
+<tr class="dif">
+<td>Zone 1–6</td>
+<td style="text-align: center;">£12.50</td>
+</tr>
+</tbody>
+</table>
+
+##### !!!! Full list [here]( http://content.tfl.gov.uk/adult-fares-2018.pdf)
+
+### How does the Oyster daily cap work?
+For example, if you load £10 onto your Oyster card and travel by underground in central London (zone 1):
+
+If you make 1 journey £2.40 is deducted from your card
+If you make 2 journeys, £4.80 is deducted
+If you make 3 journeys, £6.60 is deducted
+Your 4th and all other journeys until 4.30am the following morning are free and £3.40 will remain on your Oyster card
+
+### Best option for visitors
+For visitors, the best option is to add the cost of the daily cap to your card x the number of full days in London. Add a little extra to cover any single journeys at the start or end of your trip if necessary. For example, to and from Heathrow airport.
+
+If you do this then you don’t need to worry about topping up your card again. If there is money on your Oyster card at the end of your trip, you can get it back along with the £5 deposit.
+
+Aim to have £10 or less of Pay as you go money on your card at the end of your trip and you can easily get a refund at an underground station ticket machine. Refunds are more complicated if you have more than £10 left on your card.
+
+
+### Rail services Peak/Off-Peak
+Using pay as you go
+On Tube, DLR, London Overground, TfL Rail and National Rail services in London:
+
+Peak fares apply Monday to Friday (not on public holidays) between 06:30 and 09:30, and between 16:00 and 19:00
+Off-peak fares apply at all other times, and if you travel from a station outside Zone 1 to a station in Zone 1 between 16:00 and 19:00 Monday to Friday
+
+
+## *Day 1*
 ### Arrive at Gatwick Airport
-Thameslink Train Ride from airport to Apartments
+
+* Arrive at off-peak hours
+
+* Recharge the Oyster Cards according to fares table: £ 12.50 +  £ 6.80 * (num of days - 1)
+
+* Take Thameslink Train Ride from airport to Apartments (Gatwick to St Pancras direct, 4 rides per hour)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d319009.0647412525!2d-0.38992293947277423!3d51.34316039454268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x4875efde7d1f391b%3A0x59dda4bf018973ff!2sAeroporto+di+Londra-Gatwick+(LGW)%2C+Horley%2C+Gatwick+RH6+0NP%2C+Regno+Unito!3m2!1d51.1536621!2d-0.1820629!4m5!1s0x48761b3ee473b55b%3A0x494bddd05aa22366!2sKing&#39;s+Cross+Apartment%2C+Balfe+Street%2C+Londra%2C+Regno+Unito!3m2!1d51.5324374!2d-0.12096599999999999!5e0!3m2!1sit!2sit!4v1540748985620" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-# *Day 2*
+## *Day 2*
 ### Morning and Afternoon plan
 Buckingham, Westminster, Big Ben, London Eye
 
@@ -32,10 +103,10 @@ https://www.southbankcentre.co.uk/visit/cafes-restaurants-bars/scfood-market
 
 TBD
 
-# *Day 3*
+## *Day 3*
 ### Morning and Afternoon plan
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d8368.09975201241!2d-0.09315818578185368!3d51.50811317979874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e2!4m5!1s0x487604aca207bc87%3A0x3a1d3501a9af5fde!2sCattedrale+di+San+Paolo!3m2!1d51.5138453!2d-0.0983506!4m5!1s0x487604abcc128291%3A0xbd5ceafc2f514e1c!2sMillennium+Bridge!3m2!1d51.509529099999995!2d-0.09854249999999999!4m5!1s0x487604a90955e693%3A0xf128a3e1605b3128!2sThe+Globe+Theatre!3m2!1d51.5080647!2d-0.0971925!4m5!1s0x48760357743aaaab%3A0x5490f3a8e7be03d8!2sBorough+Market!3m2!1d51.505489499999996!2d-0.09106199999999999!4m5!1s0x4876035a0a9271d3%3A0xbdf26ba73efb7b!2sThe+Shard!3m2!1d51.5045!2d-0.0865!4m5!1s0x4876034f7b70badf%3A0x1e4662e680eb2e9c!2sCity+Hall%2C+Londra%2C+Regno+Unito!3m2!1d51.504789699999996!2d-0.07870859999999999!4m5!1s0x487603438b65db49%3A0x9e78421a085a6f2d!2sTower+Bridge!3m2!1d51.5054564!2d-0.07535649999999999!4m5!1s0x48760349331f38dd%3A0xa8bf49dde1d56467!2sTower+of+London%2C+Londra%2C+Regno+Unito!3m2!1d51.508112399999995!2d-0.0759493!4m5!1s0x487603526c3ca281%3A0xd5156ccc2c6a9284!2sSky+Garden%2C+Fenchurch+Street%2C+Londra%2C+Regno+Unito!3m2!1d51.5111997!2d-0.08354099999999999!5e0!3m2!1sit!2sit!4v1540744578660" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-# *Day 4*
+## *Day 4*
 ### Morning and Afternoon plan
